@@ -1,10 +1,10 @@
-# Generative AI Toronto Meetup -- July 2023
+# Generative AI Meetup -- 2023
 
-Thanks everyone for joining us yesterday! We'll be adding some more links over the next couple of days.
+Thanks everyone for joining us! We will add more links and resources as they become available (or known :P).  Pull requests encouraged!
 
 ## Slides
 
-[Elasticsearch: Vector and Hybrid Search](https://docs.google.com/presentation/d/1stjmAsqb5JZC52IsUoA2txL_T08nSgoJzB6M98c_XxQ/edit?usp=sharing)
+N/A
 
 ## Elastic Blog Posts
 
