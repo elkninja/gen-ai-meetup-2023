@@ -1,11 +1,16 @@
 # Generative AI Meetup -- 2023
 
-Thanks everyone for joining us! We will add more links and resources as they become available (or known :P).  Pull requests encouraged!
+Thanks everyone for joining us! We will add more links and resources as they become available (or known :P).  Pull requests are encouraged!
 
 ## Slides
 
 N/A
 
+## Elastic Search Labs links
+* [Elastic Search Labs Blog](https://search-labs.elastic.co/search-labs)
+* [Elastic Search Labs GitHub](https://github.com/elastic/elasticsearch-labs)
+* [Elasticsearch, OpenAI, KNN and RAG Demo Notebook](https://github.com/elastic/elasticsearch-labs/blob/main/notebooks/integrations/openai/openai-KNN-RAG.ipynb)
+* 
 ## Elastic Blog Posts
 
 * [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data)
