@@ -10,7 +10,7 @@ N/A
 * [Elastic Search Labs Blog](https://search-labs.elastic.co/search-labs)
 * [Elastic Search Labs GitHub](https://github.com/elastic/elasticsearch-labs)
 * [Elasticsearch, OpenAI, KNN and RAG Demo Notebook](https://github.com/elastic/elasticsearch-labs/blob/main/notebooks/integrations/openai/openai-KNN-RAG.ipynb)
-* 
+  
 ## Elastic Blog Posts
 
 * [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data)
@@ -23,7 +23,7 @@ N/A
 * [Accelerating R&D in pharma with Elasticsearch, ESRE, LLMs, and LangChain — Part 1](https://www.elastic.co/blog/research-development-pharma-elasticsearch-esre-llms-langchain-1)
 * [Improving information retrieval in the Elastic Stack: Hybrid retrieval](https://www.elastic.co/blog/improving-information-retrieval-elastic-stack-hybrid)
 
-## Elastic Links
+## More Elastic Links
 
 * [Elasticsearch vector database page](https://www.elastic.co/elasticsearch/vector-database)
 * [Elasticsearch Relevance Engine™ - Build Generative AI search engines and applications](https://www.elastic.co/enterprise-search/generative-ai)
